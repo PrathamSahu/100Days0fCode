@@ -1,4 +1,4 @@
-### Day 25 --> 100
+### Day 26 --> 100
 TWENTY-SIX days of Data Structures and Algorithms
 Do's
 
