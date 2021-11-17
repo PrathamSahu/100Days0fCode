@@ -1,5 +1,5 @@
-### Day 47 --> 100
-FOURTY-SEVEN days of Data Structures and Algorithms
+### Day 48 --> 100
+FOURTY-EIGHT days of Data Structures and Algorithms
 
 Do's
              
